@@ -1,0 +1,6 @@
+/**
+ * Single line summary text with a period.
+ *
+ * This is an example of a full description of a method/function which can
+ * span many lines.
+ */

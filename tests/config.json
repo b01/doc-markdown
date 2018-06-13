@@ -1,0 +1,6 @@
+{
+    "codebase": "https://github.com/b01/doc-markdown/tree/master/tests/Dummies/",
+    "doCodebaseLink": true,
+    "source": "../tests/Dummies/",
+    "documentation": "../tests/out/"
+}

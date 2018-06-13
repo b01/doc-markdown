@@ -1,0 +1,10 @@
+# Directories
+# ------------
+/.idea/
+/tests/out/
+/tests/tmp/
+/vendor/
+
+# Files
+# ------
+/composer.lock

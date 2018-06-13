@@ -1,0 +1,5 @@
+/**
+ * Single line summary text with no period
+ *
+ * @param string $testParam1 Test parameter one.
+ */

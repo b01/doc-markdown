@@ -1,0 +1,13 @@
+/**
+ * Summary test.
+ *
+ * @param $test
+ * @param string $test2
+ * @param array $test3 Description for test-3 variable.
+ * @param int $test4 Description for test-4 variable
+ * descriptions extends beyond one line
+ *
+ * @param $test5 Test-5 variable has no type and the
+ * descriptions extends beyond one line.
+ * @return null
+ */

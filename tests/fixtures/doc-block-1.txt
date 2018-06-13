@@ -1,0 +1,6 @@
+/**
+ * Summary test.
+ *
+ * @param $test
+ * @return null
+ */

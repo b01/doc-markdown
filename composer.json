@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "Khalifah Shabazz",
+            "email": "shabazzk@gmail.com",
+            "role": "Project Manager/Developer"
+        }
+    ],
+    "description": "A tool to generate API documentation from inline Doc-blocks; Using the PHP token_get_all() function to read and parse PHP files for code documentation and transforming Doc-blocks into Markdown and storing them in markdown files",
+    "name": "ql/doc-markdown",
+    "require-dev": {
+        "phpunit/phpunit": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "QL\\DocMarkdown\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "QL\\DocMarkdown\\Tests\\": "tests/DocMarkdown"
+        }
+    }
+}
